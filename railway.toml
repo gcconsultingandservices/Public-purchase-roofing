@@ -1,5 +1,5 @@
 [build]
-builder = "Python"
+language = "python"
 
 [start]
-cmd = "python main.py"
+command = "python3 Main.py"
