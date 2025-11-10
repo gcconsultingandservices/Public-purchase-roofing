@@ -1,2 +1,2 @@
 # Running the python script
-python main.py
+python3 main.py
