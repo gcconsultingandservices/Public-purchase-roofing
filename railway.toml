@@ -1,5 +1,0 @@
-[build]
-language = "python"
-
-[start]
-command = "python3 Main.py"
