@@ -1,0 +1,5 @@
+[build]
+builder = "Python"
+
+[start]
+cmd = "python main.py"
