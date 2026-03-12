@@ -9,8 +9,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import requests
 
 # VARIABLES
-username = "manuel.madeira"
-password = "AlakaiRoofing123"
+username = "hokuinc"
+password = "Vendetta#22"
 base_url = "https://www.publicpurchase.com"
 keyword = "roofing"
 
@@ -106,5 +106,5 @@ def run_script():
 while True:
     print("\n🚀 Obtaining Public Purchase Contracts...\n")
     run_script()
-    print("⏰ Waiting 1 hour before next run...\n")
-    time.sleep(3600)  # 1 hour = 3600 seconds
+    print("⏰ Waiting 4 hours before next run...\n")
+    time.sleep(16400)  # 1 hour = 3600 seconds
